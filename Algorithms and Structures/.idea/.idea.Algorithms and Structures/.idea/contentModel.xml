@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures" t="IncludeFlat">
+      <e p="Algorithms and Structures" t="IncludeRecursive">
+        <e p="Algorithms and Structures.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Algorithms and Structures.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Algorithms and Structures.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\user.DESKTOP-Q74G26V\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\user.DESKTOP-Q74G26V\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Algorithms and Structures.-1069743122.00" t="ExcludeRecursive" />
+  </component>
+</project>

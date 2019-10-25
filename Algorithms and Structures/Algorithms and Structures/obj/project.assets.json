@@ -1,0 +1,57 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\user.DESKTOP-Q74G26V\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Projects\\Learning\\algorithms_and_structures\\Algorithms and Structures\\Algorithms and Structures\\Algorithms and Structures.csproj",
+      "projectName": "Algorithms and Structures",
+      "projectPath": "C:\\Projects\\Learning\\algorithms_and_structures\\Algorithms and Structures\\Algorithms and Structures\\Algorithms and Structures.csproj",
+      "packagesPath": "C:\\Users\\user.DESKTOP-Q74G26V\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Learning\\algorithms_and_structures\\Algorithms and Structures\\Algorithms and Structures\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user.DESKTOP-Q74G26V\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}

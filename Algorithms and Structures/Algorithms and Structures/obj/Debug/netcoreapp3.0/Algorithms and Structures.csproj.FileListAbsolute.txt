@@ -1,0 +1,11 @@
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Algorithms and Structures.exe
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Algorithms and Structures.deps.json
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Algorithms and Structures.runtimeconfig.json
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Algorithms and Structures.runtimeconfig.dev.json
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Algorithms and Structures.dll
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Algorithms and Structures.pdb
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.csprojAssemblyReference.cache
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.AssemblyInfoInputs.cache
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.AssemblyInfo.cs
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.dll
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.pdb

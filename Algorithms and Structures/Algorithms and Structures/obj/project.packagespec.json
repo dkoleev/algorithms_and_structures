@@ -22,6 +22,16 @@
   },
   "frameworks": {
     "netcoreapp3.0": {
+      "dependencies": {
+        "Unity": {
+          "target": "Package",
+          "version": "[5.11.1, )"
+        },
+        "Unity.Interception": {
+          "target": "Package",
+          "version": "[5.11.1, )"
+        }
+      },
       "imports": [
         "net461",
         "net462",

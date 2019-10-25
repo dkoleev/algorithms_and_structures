@@ -4,6 +4,18 @@
     <e p="C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures" t="IncludeFlat">
       <e p="Algorithms and Structures" t="IncludeRecursive">
         <e p="Algorithms and Structures.csproj" t="IncludeRecursive" />
+        <e p="AOP" t="Include">
+          <e p="LoggingAspect.cs" t="Include" />
+          <e p="Workers" t="Include">
+            <e p="IWorker.cs" t="Include" />
+            <e p="Worker.cs" t="Include" />
+          </e>
+          <e p="Works" t="Include">
+            <e p="Design.cs" t="Include" />
+            <e p="IWork.cs" t="Include" />
+            <e p="Programming.cs" t="Include" />
+          </e>
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -13,6 +25,10 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="SimpleHashMap" t="Include">
+          <e p="Item.cs" t="Include" />
+          <e p="Map.cs" t="Include" />
+        </e>
       </e>
       <e p="Algorithms and Structures.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

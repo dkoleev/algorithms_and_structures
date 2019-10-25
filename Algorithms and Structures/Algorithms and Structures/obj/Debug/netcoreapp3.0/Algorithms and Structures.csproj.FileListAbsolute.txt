@@ -9,3 +9,7 @@ C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorit
 C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.AssemblyInfo.cs
 C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.dll
 C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.pdb
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Unity.Abstractions.dll
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Unity.Container.dll
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\bin\Debug\netcoreapp3.0\Unity.Interception.dll
+C:\Projects\Learning\algorithms_and_structures\Algorithms and Structures\Algorithms and Structures\obj\Debug\netcoreapp3.0\Algorithms and Structures.csproj.CopyComplete

@@ -29,6 +29,11 @@
           <e p="Item.cs" t="Include" />
           <e p="Map.cs" t="Include" />
         </e>
+        <e p="SortingAlgorithms" t="Include">
+          <e p="BubbleSort.cs" t="Include" />
+          <e p="MergeSort.cs" t="Include" />
+          <e p="QuickSort.cs" t="Include" />
+        </e>
       </e>
       <e p="Algorithms and Structures.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />

@@ -1,8 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2046
-MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms and Structures", "Algorithms and Structures\Algorithms and Structures.csproj", "{3ACFA9EF-BFCA-416A-AE85-8BCF5AFB969D}"
 EndProject
 Global
@@ -15,11 +12,5 @@ Global
 		{3ACFA9EF-BFCA-416A-AE85-8BCF5AFB969D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3ACFA9EF-BFCA-416A-AE85-8BCF5AFB969D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3ACFA9EF-BFCA-416A-AE85-8BCF5AFB969D}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7D07A455-1AF0-400E-8817-D93F1057C4B5}
 	EndGlobalSection
 EndGlobal

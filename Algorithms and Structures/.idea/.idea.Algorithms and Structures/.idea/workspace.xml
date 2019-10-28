@@ -2,29 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2a22e7a-28da-4dee-8b7d-e69c9aa6fffa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/AOP/LoggingAspect.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/IWorker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/Worker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Design.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/AOP/Works/IWork.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Programming.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/SimpleHashMap/Item.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/SimpleHashMap/Map.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/BubbleSort.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/MergeSort.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/QuickSort.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithms and Structures/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithms and Structures/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Algorithms and Structures/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Algorithms and Structures/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/Algorithms and Structures.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/Algorithms and Structures.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms and Structures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures.sln" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithms and Structures/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/bin/Debug/netcoreapp3.0/Algorithms and Structures.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/bin/Debug/netcoreapp3.0/Algorithms and Structures.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithms and Structures/bin/Debug/netcoreapp3.0/Algorithms and Structures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/bin/Debug/netcoreapp3.0/Algorithms and Structures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithms and Structures/bin/Debug/netcoreapp3.0/Algorithms and Structures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/bin/Debug/netcoreapp3.0/Algorithms and Structures.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/Algorithms and Structures.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/Algorithms and Structures.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/Debug/netcoreapp3.0/Algorithms and Structures.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms and Structures/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms and Structures/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,126 +21,86 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algorithms and Structures/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
               <folding>
-                <marker date="1572016859608" expanded="true" signature="6:151" ph="..." />
-                <marker date="1572016859608" expanded="true" signature="344:915" ph="{...}" />
-                <marker date="1572016859608" expanded="true" signature="364:913" ph="{...}" />
-                <marker date="1572016859608" expanded="true" signature="406:907" ph="{...}" />
+                <marker date="1572262699064" expanded="false" signature="6:357" ph="..." />
+                <marker date="1572262699064" expanded="true" signature="395:2001" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="415:1999" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="457:585" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="471:546" ph="/* TestAop(); ... */" />
+                <marker date="1572262699064" expanded="true" signature="595:1452" ph="Sorting algorithms" />
+                <marker date="1572262699064" expanded="true" signature="667:887" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="818:876" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="941:1160" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="1091:1149" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="1214:1433" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="1364:1422" ph="{...}" />
+                <marker date="1572262699064" expanded="true" signature="1492:1993" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/LoggingAspect.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-              <folding>
-                <marker date="1572016654748" expanded="true" signature="6:146" ph="..." />
-                <marker date="1572016654748" expanded="true" signature="188:1453" ph="{...}" />
-                <marker date="1572016654748" expanded="true" signature="245:1451" ph="{...}" />
-                <marker date="1572016654748" expanded="true" signature="353:1176" ph="{...}" />
-                <marker date="1572016654748" expanded="true" signature="761:942" ph="{...}" />
-                <marker date="1572016654748" expanded="true" signature="961:1129" ph="{...}" />
-                <marker date="1572016654748" expanded="true" signature="1235:1283" ph="{...}" />
-                <marker date="1572016654748" expanded="true" signature="1373:1444" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/IWork.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-              <folding>
-                <marker date="1572016068930" expanded="true" signature="46:108" ph="{...}" />
-                <marker date="1572016068930" expanded="true" signature="75:106" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Programming.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-              <folding>
-                <marker date="1572016092178" expanded="true" signature="46:176" ph="{...}" />
-                <marker date="1572016092178" expanded="true" signature="85:174" ph="{...}" />
-                <marker date="1572016092178" expanded="true" signature="117:168" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Design.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding>
-                <marker date="1572016138338" expanded="true" signature="46:166" ph="{...}" />
-                <marker date="1572016138338" expanded="true" signature="80:164" ph="{...}" />
-                <marker date="1572016138338" expanded="true" signature="112:158" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/IWorker.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-              <folding>
-                <marker date="1572016302609" expanded="true" signature="48:111" ph="{...}" />
-                <marker date="1572016302609" expanded="true" signature="79:109" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/Worker.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-              <folding>
-                <marker date="1572016307692" expanded="true" signature="92:315" ph="{...}" />
-                <marker date="1572016307692" expanded="true" signature="128:313" ph="{...}" />
-                <marker date="1572016307692" expanded="true" signature="194:231" ph="{...}" />
-                <marker date="1572016307692" expanded="true" signature="262:307" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SimpleHashMap/Map.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/QuickSort.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
-                <marker date="1572003061639" expanded="false" signature="6:66" ph="..." />
-                <marker date="1572003061639" expanded="true" signature="118:1296" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="155:1294" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="419:752" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="451:529" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="588:711" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="802:1288" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="833:910" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="955:1034" ph="{...}" />
-                <marker date="1572003061639" expanded="true" signature="1088:1205" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="54:1463" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="90:1461" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="100:298" ph="/// Time: middle - O(n*log(n)), baddest - O(n^2); ... " />
+                <marker date="1572263728175" expanded="true" signature="344:417" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="501:814" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="549:607" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="894:1310" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="996:1195" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="1058:1181" ph="{...}" />
+                <marker date="1572263728175" expanded="true" signature="1374:1455" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/BubbleSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <folding>
+                <marker date="1572261495622" expanded="true" signature="54:701" ph="{...}" />
+                <marker date="1572261495622" expanded="true" signature="92:699" ph="{...}" />
+                <marker date="1572261495622" expanded="true" signature="102:190" ph="/// Time: O(n^2); ... " />
+                <marker date="1572261495622" expanded="true" signature="237:558" ph="{...}" />
+                <marker date="1572261495622" expanded="true" signature="290:521" ph="{...}" />
+                <marker date="1572261495622" expanded="true" signature="355:507" ph="{...}" />
+                <marker date="1572261495622" expanded="true" signature="406:489" ph="{...}" />
+                <marker date="1572261495622" expanded="true" signature="615:693" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/MergeSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+              <folding>
+                <marker date="1572261502486" expanded="true" signature="74:1172" ph="{...}" />
+                <marker date="1572261502486" expanded="true" signature="110:1170" ph="{...}" />
+                <marker date="1572261502486" expanded="true" signature="120:243" ph="/// Time: O(n*log(n)); ... " />
+                <marker date="1572261502486" expanded="true" signature="289:544" ph="{...}" />
+                <marker date="1572261502486" expanded="true" signature="334:392" ph="{...}" />
+                <marker date="1572261502486" expanded="true" signature="605:1164" ph="{...}" />
+                <marker date="1572261502486" expanded="true" signature="772:1124" ph="{...}" />
+                <marker date="1572261502486" expanded="true" signature="848:971" ph="{...}" />
+                <marker date="1572261502486" expanded="true" signature="992:1110" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -167,9 +115,12 @@
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/Worker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/SimpleHashMap/Map.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/SimpleHashMap/Item.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/BubbleSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/MergeSort.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Design.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/LoggingAspect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/QuickSort.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/IWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/IWork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Programming.cs" root0="FORCE_HIGHLIGHTING" />
@@ -191,7 +142,14 @@
         <option value="$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/IWorker.cs" />
         <option value="$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/Worker.cs" />
         <option value="$PROJECT_DIR$/Algorithms and Structures/AOP/LoggingAspect.cs" />
+        <option value="$PROJECT_DIR$/Algorithms and Structures/Algorithms and Structures.csproj" />
+        <option value="$PROJECT_DIR$/Algorithms and Structures/SortingAlghoritms/BubbleSort.cs" />
+        <option value="$PROJECT_DIR$/Algorithms and Structures/SortingAlgoritрms/BubbleSort.cs" />
+        <option value="$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/FastSort.cs" />
+        <option value="$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/BubbleSort.cs" />
+        <option value="$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/MergeSort.cs" />
         <option value="$PROJECT_DIR$/Algorithms and Structures/Program.cs" />
+        <option value="$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/QuickSort.cs" />
       </list>
     </option>
   </component>
@@ -208,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
@@ -217,29 +174,12 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Algorithms and Structures" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Algorithms and Structures" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Algorithms and Structures" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Algorithms and Structures" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Algorithms and Structures" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AOP" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Algorithms and Structures" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Algorithms and Structures" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="AOP" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Workers" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,11 +238,16 @@
       <option name="presentableId" value="Default" />
       <updated>1571989718551</updated>
       <workItem from="1571989720724" duration="4143000" />
+      <workItem from="1572257408071" duration="653000" />
+      <workItem from="1572258858168" duration="643000" />
+      <workItem from="1572261304809" duration="217000" />
+      <workItem from="1572262454709" duration="1298000" />
+      <workItem from="1572271624223" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4143000" />
+    <option name="totallyTimeSpent" value="7553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,40 +260,41 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="236" y="3" width="1348" height="1032" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23369566" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25310558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.3259177" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32925472" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.22580644" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3259177" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -376,9 +322,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Programming.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding>
+            <marker date="1572016092178" expanded="true" signature="46:176" ph="{...}" />
+            <marker date="1572016092178" expanded="true" signature="85:174" ph="{...}" />
+            <marker date="1572016092178" expanded="true" signature="117:168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Design.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1572016138338" expanded="true" signature="46:166" ph="{...}" />
+            <marker date="1572016138338" expanded="true" signature="80:164" ph="{...}" />
+            <marker date="1572016138338" expanded="true" signature="112:158" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/IWorker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding>
+            <marker date="1572016302609" expanded="true" signature="48:111" ph="{...}" />
+            <marker date="1572016302609" expanded="true" signature="79:109" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/Worker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <marker date="1572016307692" expanded="true" signature="92:315" ph="{...}" />
+            <marker date="1572016307692" expanded="true" signature="128:313" ph="{...}" />
+            <marker date="1572016307692" expanded="true" signature="194:231" ph="{...}" />
+            <marker date="1572016307692" expanded="true" signature="262:307" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SimpleHashMap/Map.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="240">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <marker date="1572003061639" expanded="false" signature="6:66" ph="..." />
@@ -395,29 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/IWorker.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding>
-            <marker date="1572016302609" expanded="true" signature="48:111" ph="{...}" />
-            <marker date="1572016302609" expanded="true" signature="79:109" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Design.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <marker date="1572016138338" expanded="true" signature="46:166" ph="{...}" />
-            <marker date="1572016138338" expanded="true" signature="80:164" ph="{...}" />
-            <marker date="1572016138338" expanded="true" signature="112:158" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/IWork.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -429,24 +400,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Works/Programming.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
-          <folding>
-            <marker date="1572016092178" expanded="true" signature="46:176" ph="{...}" />
-            <marker date="1572016092178" expanded="true" signature="85:174" ph="{...}" />
-            <marker date="1572016092178" expanded="true" signature="117:168" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/LoggingAspect.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="285">
           <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding>
-            <marker date="1572016654748" expanded="true" signature="6:146" ph="..." />
+            <marker date="1572016654748" expanded="false" signature="6:146" ph="..." />
             <marker date="1572016654748" expanded="true" signature="188:1453" ph="{...}" />
             <marker date="1572016654748" expanded="true" signature="245:1451" ph="{...}" />
             <marker date="1572016654748" expanded="true" signature="353:1176" ph="{...}" />
@@ -458,28 +417,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/AOP/Workers/Worker.cs">
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/Algorithms and Structures.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <marker date="1572016307692" expanded="true" signature="92:315" ph="{...}" />
-            <marker date="1572016307692" expanded="true" signature="128:313" ph="{...}" />
-            <marker date="1572016307692" expanded="true" signature="194:231" ph="{...}" />
-            <marker date="1572016307692" expanded="true" signature="262:307" ph="{...}" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithms and Structures/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="255">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
           <folding>
-            <marker date="1572016859608" expanded="true" signature="6:151" ph="..." />
-            <marker date="1572016859608" expanded="true" signature="344:915" ph="{...}" />
-            <marker date="1572016859608" expanded="true" signature="364:913" ph="{...}" />
-            <marker date="1572016859608" expanded="true" signature="406:907" ph="{...}" />
+            <marker date="1572262699064" expanded="false" signature="6:357" ph="..." />
+            <marker date="1572262699064" expanded="true" signature="395:2001" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="415:1999" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="457:585" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="471:546" ph="/* TestAop(); ... */" />
+            <marker date="1572262699064" expanded="true" signature="595:1452" ph="Sorting algorithms" />
+            <marker date="1572262699064" expanded="true" signature="667:887" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="818:876" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="941:1160" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="1091:1149" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="1214:1433" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="1364:1422" ph="{...}" />
+            <marker date="1572262699064" expanded="true" signature="1492:1993" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/BubbleSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1572261495622" expanded="true" signature="54:701" ph="{...}" />
+            <marker date="1572261495622" expanded="true" signature="92:699" ph="{...}" />
+            <marker date="1572261495622" expanded="true" signature="102:190" ph="/// Time: O(n^2); ... " />
+            <marker date="1572261495622" expanded="true" signature="237:558" ph="{...}" />
+            <marker date="1572261495622" expanded="true" signature="290:521" ph="{...}" />
+            <marker date="1572261495622" expanded="true" signature="355:507" ph="{...}" />
+            <marker date="1572261495622" expanded="true" signature="406:489" ph="{...}" />
+            <marker date="1572261495622" expanded="true" signature="615:693" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/MergeSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding>
+            <marker date="1572261502486" expanded="true" signature="74:1172" ph="{...}" />
+            <marker date="1572261502486" expanded="true" signature="110:1170" ph="{...}" />
+            <marker date="1572261502486" expanded="true" signature="120:243" ph="/// Time: O(n*log(n)); ... " />
+            <marker date="1572261502486" expanded="true" signature="289:544" ph="{...}" />
+            <marker date="1572261502486" expanded="true" signature="334:392" ph="{...}" />
+            <marker date="1572261502486" expanded="true" signature="605:1164" ph="{...}" />
+            <marker date="1572261502486" expanded="true" signature="772:1124" ph="{...}" />
+            <marker date="1572261502486" expanded="true" signature="848:971" ph="{...}" />
+            <marker date="1572261502486" expanded="true" signature="992:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms and Structures/SortingAlgorithms/QuickSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <marker date="1572263728175" expanded="true" signature="54:1463" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="90:1461" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="100:298" ph="/// Time: middle - O(n*log(n)), baddest - O(n^2); ... " />
+            <marker date="1572263728175" expanded="true" signature="344:417" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="501:814" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="549:607" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="894:1310" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="996:1195" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="1058:1181" ph="{...}" />
+            <marker date="1572263728175" expanded="true" signature="1374:1455" ph="{...}" />
           </folding>
         </state>
       </provider>
